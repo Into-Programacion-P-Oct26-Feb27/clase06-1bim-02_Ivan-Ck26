@@ -45,3 +45,7 @@ public class Ejemplo03 {
         
     }
 }
+/*
+El string format sirve para insertar variables dentro de un texto de forma
+limpia y ordenada sin tener que concatenar con el signo.
+*/
