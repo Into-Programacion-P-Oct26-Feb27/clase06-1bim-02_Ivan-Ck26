@@ -13,7 +13,7 @@ public class Ejemplo021 {
     public static void main(String[] args) {
         String ciudad = "loJa";
         System.out.printf("%s\n", ciudad.toUpperCase());
-       
+        System.out.printf("s\n", ciudad);
         
     }
 }
